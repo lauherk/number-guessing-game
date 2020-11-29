@@ -1,0 +1,13 @@
+.guess-list-container {
+  margin: 10px;
+  flex: auto;
+}
+.past-guesses {
+  padding: 10px;
+  font-size: medium;
+  text-transform: uppercase;
+  font-weight: bolder;
+}
+.guess-list-item {
+  padding: 4px;
+}

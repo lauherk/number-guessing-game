@@ -1,0 +1,15 @@
+.success {
+  padding: 5px;
+  font-size: larger;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+
+.restart-btn {
+  font-size: large;
+  margin: 5px;
+  color: white;
+  text-transform: uppercase;
+  background-color: teal;
+  border-radius: 20px;
+}

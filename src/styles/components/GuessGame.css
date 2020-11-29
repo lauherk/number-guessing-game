@@ -1,0 +1,5 @@
+.game-controls-container {
+  margin: 10px;
+  flex: auto;
+  justify-content: center;
+}

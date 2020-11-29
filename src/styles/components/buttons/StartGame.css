@@ -1,0 +1,12 @@
+.start-game {
+  font-size: larger;
+  margin: 5px;
+  color: white;
+  text-transform: uppercase;
+  background-color: teal;
+  border-radius: 20px;
+}
+
+.start-btn-container {
+  flex: auto;
+}

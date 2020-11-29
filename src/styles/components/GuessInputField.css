@@ -1,0 +1,22 @@
+.guess-input-container {
+  margin: 10px;
+  padding: 10px;
+  flex: auto;
+}
+
+.guess-input-instructions {
+  font-size: larger;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+.guess-input {
+  font-size: larger;
+}
+.guess-submit {
+  font-size: larger;
+  margin: 5px;
+  color: white;
+  text-transform: uppercase;
+  background-color: teal;
+  border-radius: 20px;
+}
